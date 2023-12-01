@@ -34,4 +34,4 @@ if __name__ == '__main__':
 		print('prediction for {} is :'.format(image_path.split('/')[-1]),end=' ')
 		print(prediction(img))
 
-	
+	# 김건호 바보
